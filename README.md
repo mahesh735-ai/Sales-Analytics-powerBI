@@ -1,14 +1,12 @@
-# Sales-Analytics-powerBI
-📊 Built a Sales Analytics Dashboard in Power BI from scratch! Raw CSV → Power Query → DAX → Interactive Dashboard. KPIs, 6 visuals, Bookmarks &amp; custom Figma UI. Insights on sales, customer retention &amp; monthly trends. 🚀 #PowerBI #DataAnalytics
 # 📊 Sales Analytics Dashboard — Power BI End-to-End Project
 
-> A professional Sales Analytics Dashboard built in Power BI using retail transaction data. This project covers the full data pipeline: data import → cleaning → DAX measures → visualization → UI/UX design with bookmarks and filter pane.
+> A professional Sales Analytics Dashboard built in Power BI using retail transaction data. This project covers the full data pipeline: data import → cleaning → DAX measures → visualization → UI/UX design with bookmarks and filter pane. Insights on sales, customer retention &amp; monthly trends.
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](./1775380901482_image.png)
+![Sales Analytics Dashboard]([./1775380901482_image.png](https://github.com/mahesh735-ai/Sales-Analytics-powerBI/blob/main/Screenshot_Dashboard.png))
 
 ---
 
